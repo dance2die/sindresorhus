@@ -1,25 +1,21 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# sung
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
+> The [Sung Kim ](https://www.sungkim.co/) CLI
 
-<img src="screenshot.png" width="752">
-
+![Screen shot of the Donavon West CLI](screenshot.png)
 
 ## Usage
 
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx donavon
 ```
 
+## Origin
 
-## Built with
-
-- [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
-- [terminal-image](https://github.com/sindresorhus/terminal-image) - Display images in the terminal
-
+This was forked from the fantastic work done by [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus).
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Donavon West](http://donavon.com)
