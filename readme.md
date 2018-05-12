@@ -2,14 +2,12 @@
 
 > The [Sung Kim ](https://www.sungkim.co/) CLI
 
-![Screen shot of the Donavon West CLI](screenshot.png)
-
 ## Usage
 
 Install Node.js, then:
 
 ```
-$ npx donavon
+$ npx sung
 ```
 
 ## Origin
@@ -18,4 +16,4 @@ This was forked from the fantastic work done by [Sindre Sorhus](https://github.c
 
 ## License
 
-MIT © [Donavon West](http://donavon.com)
+MIT © [Sung Kim](https://www.sungkim.co/)
