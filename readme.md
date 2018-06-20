@@ -1,6 +1,6 @@
 # sung
 
-> The [Sung Kim ](https://www.sungkim.co/) CLI
+> The [Sung Kim ](https://sungkim.co/) CLI
 
 ## Usage
 
@@ -21,4 +21,4 @@ This was forked from the fantastic work done by [Sindre Sorhus](https://github.c
 
 ## License
 
-MIT © [Sung Kim](https://www.sungkim.co/)
+MIT © [Sung Kim](https://sungkim.co/)

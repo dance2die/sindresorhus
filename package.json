@@ -7,7 +7,7 @@
 	"author": {
 		"name": "Sung Kim",
 		"email": "sungmkim80@gmail.com",
-		"url": "https://www.sungkim.co/"
+		"url": "https://sungkim.co/"
 	},
 	"bin": {
 		"sung": "source/cli.js"

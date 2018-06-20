@@ -20,7 +20,7 @@ const handleSelect = item => {
 const items = [
 	{
 		label: "Website",
-		url: "https://www.sungkim.co/"
+		url: "https://sungkim.co/"
 	},
 	{
 		label: "Twitter",
