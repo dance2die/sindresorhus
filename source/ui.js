@@ -24,7 +24,7 @@ const items = [
 	},
 	{
 		label: "Twitter",
-		url: "https://twitter.com/slightedgecoder"
+		url: "https://twitter.com/dance2die"
 	},
 	{
 		label: "GitHub",
@@ -32,7 +32,7 @@ const items = [
 	},
 	{
 		label: "Blog",
-		url: "https://www.slightedgecoder.com/"
+		url: "https://sung.codes"
 	},
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
 	{
