@@ -2,7 +2,7 @@
 
 > The [Sung Kim ](https://sungkim.co/) CLI
 
-<img src="./source/screenshot.png" width="752">
+<img src="./source/screenshot.gif" width="752">
 
 ## Usage
 
