@@ -2,6 +2,8 @@
 
 > The [Sung Kim ](https://sungkim.co/) CLI
 
+<img src="./source/screenshot.png" width="752">
+
 ## Usage
 
 Install Node.js, then:
